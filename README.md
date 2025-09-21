@@ -55,3 +55,29 @@ Monthly units sold for 4 products over 12 months.
 - ![Monthly Sales Trends](monthly_sales_trends.png) → line chart showing monthly trends  
 - ![Total Sales per Product](total_sales_per_product.png) → bar chart of total sales  
 - ![Product Contribution to Total Sales](product_sales_pie.png) → pie chart showing % contribution
+---
+
+# 📊 Project 3: AI-Powered Loan Risk Analysis
+
+### Goal  
+Simulate a small loan applicant dataset and analyse risk levels using basic AI/analytics concepts. Identify high-risk applicants for better financial decision-making.  
+
+### Dataset  
+Includes Income, Credit Score, Loan Amount, and Repayment History for 100 applicants.  
+
+### Key Insights  
+- Applicants with low credit scores (<550) or poor repayment history are classified as High Risk.  
+- Scatter plot shows the relationship between income and loan amount by risk.  
+- Histogram shows overall distribution of credit scores.  
+
+### Skills Demonstrated  
+- Data handling & cleaning  
+- Basic predictive analytics / risk assessment  
+- Data visualisation (bar chart, scatter plot, histogram)  
+- Financial insight & communication of findings  
+
+### Files & Visuals
+- `loan_risk_dataset.csv` → raw dataset  
+- ![Loan Risk Bar Chart](loan_risk_bar.png) → number of high vs low risk applicants  
+- ![Income vs Loan Scatter](income_loan_scatter.png) → income vs loan amount coloured by risk  
+- ![Credit Score Histogram](credit_score_hist.png) → distribution of credit scores
