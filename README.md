@@ -81,3 +81,30 @@ Includes Income, Credit Score, Loan Amount, and Repayment History for 100 applic
 - ![Loan Risk Bar Chart](loan_risk_bar.png) → number of high vs low risk applicants  
 - ![Income vs Loan Scatter](income_loan_scatter.png) → income vs loan amount coloured by risk  
 - ![Credit Score Histogram](credit_score_hist.png) → distribution of credit scores
+---
+
+# 📊 Project 4: Customer Service Improvement Report
+
+### Goal  
+Analyse customer satisfaction data to provide actionable recommendations to improve service efficiency and customer experience.
+
+### Dataset  
+120 survey responses covering service, food, cleanliness, wait times, and likelihood to recommend.
+
+### Key Insights  
+- Cleanliness received the highest average rating (4.2/5), followed by service (4.0/5) and food (3.6/5).  
+- Longer wait times negatively impacted overall satisfaction.  
+- Most complaints occurred during peak hours (12 PM - 2 PM).
+
+### Recommendations  
+- Introduce additional staff or streamline processes during peak hours to reduce wait times.  
+- Conduct refresher training for staff to maintain service quality.  
+- Encourage customer feedback via short surveys to identify emerging issues.
+
+### Skills Demonstrated  
+- Data analysis using Excel/Google Sheets  
+- Business insight and problem-solving  
+- Report writing and professional communication
+
+### Files  
+- `Customer_Service_Improvement_Report.pdf` → full report with insights and recommendations
