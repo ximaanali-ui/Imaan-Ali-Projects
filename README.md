@@ -29,3 +29,29 @@ Analyse customer satisfaction levels and identify factors influencing positive e
 - ![Average Ratings](avg_ratings.png) → Bar chart showing average scores for service, food, and cleanliness  
 - ![Wait Times](wait_times.png) → Histogram showing distribution of customer wait times  
 - ![Would Recommend](recommend_pie.png) → Pie chart showing % of customers who would recommend the shop
+---
+
+# 📊 Project 2: Sales Performance Dashboard
+
+### Goal  
+Analyse monthly sales data for a dessert shop to understand product trends, total performance, and contribution to overall sales.  
+
+### Dataset  
+Monthly units sold for 4 products over 12 months.  
+
+### Key Insights  
+- Sales trends show which products are growing month-to-month.  
+- Total sales indicate the best-selling products over the year.  
+- Pie chart shows each product's share of total sales, helping with inventory and promotion decisions.  
+
+### Skills Demonstrated  
+- Data organisation & cleaning  
+- Trend analysis & reporting  
+- Data visualisation (line chart, bar chart, pie chart)  
+- Business insight & decision-making  
+
+### Files & Visuals
+- `sales_performance_dataset.csv` → raw dataset  
+- ![Monthly Sales Trends](monthly_sales_trends.png) → line chart showing monthly trends  
+- ![Total Sales per Product](total_sales_per_product.png) → bar chart of total sales  
+- ![Product Contribution to Total Sales](product_sales_pie.png) → pie chart showing % contribution
