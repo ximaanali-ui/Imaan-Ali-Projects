@@ -6,7 +6,7 @@ A collection of projects showcasing my skills in data analysis, problem-solving,
 # 📊 Project 1: Customer Satisfaction Analysis
 
 ### Goal  
-Analyse customer satisfaction levels and find what affects positive experiences.  
+Analyse customer satisfaction levels and identify factors influencing positive experiences.  
 
 ### Dataset  
 120 survey responses including service, food, cleanliness ratings, wait times, and willingness to recommend.  
@@ -18,12 +18,14 @@ Analyse customer satisfaction levels and find what affects positive experiences.
 - 81% of customers said they would recommend the shop.  
 - Longer wait times lowered satisfaction.  
 
-### Skills Shown  
+### Skills Demonstrated  
 - Data handling & organisation  
 - Statistical analysis (averages, percentages)  
-- Graphs & visualisation  
+- Data visualisation (bar chart, histogram, pie chart)  
 - Business insight & reporting  
 
-### Files  
-- `customer_satisfaction_dataset.csv` → dataset  
-- Graphs (to be added soon)
+### Files & Visuals
+- `customer_satisfaction_dataset.csv` → raw dataset  
+- ![Average Ratings](avg_ratings.png) → Bar chart showing average scores for service, food, and cleanliness  
+- ![Wait Times](wait_times.png) → Histogram showing distribution of customer wait times  
+- ![Would Recommend](recommend_pie.png) → Pie chart showing % of customers who would recommend the shop
